@@ -4,7 +4,7 @@ Two Heads are Better than One: Robust Learning Meets Multi-branch Models
 
 ## install
 ```
-git clone https://github.com/huangd1999/BORT.git
+git clone https://github.com/aaai944bort/BORT.git
 cd BORT
 pip install torchattacks
 mkdir checkpoint
